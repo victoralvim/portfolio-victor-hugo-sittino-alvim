@@ -1,62 +1,59 @@
 # Victor Hugo Sittino Alvim
-> Estudante de Análise e Desenvolvimento de Sistemas | Militar da FAB | Foco em Cibersegurança
+> Estudante de Ciência da Computação | Militar da FAB | Foco em Cibersegurança & IA
 
 ---
 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alvim-43877425b/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.alvim05@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](URL_DO_SEU_PDF_AQUI)
 
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando o **2º semestre de Análise e Desenvolvimento de Sistemas na UNICID**. Como militar da Força Aérea Brasileira, aplico disciplina e pensamento analítico na resolução de problemas tecnológicos. Possuo foco em **Segurança da Informação** e estou em constante evolução no ecossistema de desenvolvimento Full Stack e Inteligência Artificial.
+Sou estudante de **Ciência da Computação** na Universidade de Guarulhos (UNG) e possuo 33 anos. Atualmente, sirvo como militar na Força Aérea Brasileira, o que fundamenta minha trajetória em disciplina e responsabilidade técnica. Minha atuação profissional e acadêmica é voltada para a resolução de problemas complexos através da tecnologia, com foco especial em **Cibersegurança** e **Inteligência Artificial**.
 
-* **Habilidades Técnicas:** Desenvolvimento Web (Frontend/Backend), Automação em Python e Modelagem de Dados.
-* **Habilidades Socioemocionais:** Liderança, disciplina militar, comunicação assertiva e resiliência em ambientes de alta responsabilidade.
-* **Certificações em Foco:** Google Cybersecurity Professional Certificate (Coursera).
+*   **Habilidades Técnicas:** Proficiência em Python, SQL e desenvolvimento com tecnologias web como JavaScript, HTML e CSS.
+*   **Habilidades Socioemocionais:** Liderança, pensamento crítico e comunicação assertiva desenvolvidos em ambientes de alta responsabilidade.
+*   **Foco Acadêmico:** Especialização em ferramentas de segurança (Kali Linux) e integração de serviços de IA.
 
 ---
 
-### 🛠 Minhas Ferramentas Favoritas
+### 🛠 Ferramentas & Tecnologias
 
-#### 💻 Linguagens e Tecnologias
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### 🗄️ Banco de Dados & Cloud
+#### 💻 Linguagens e Desenvolvimento
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🤖 Inteligência Artificial & Low-Code
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### 🔐 Cibersegurança & OS
+#### 🔐 Segurança & Sistemas
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cybersecurity](https://img.shields.io/badge/Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ### 📂 Portfólio de Projetos
-Abaixo estão os principais projetos desenvolvidos durante minha jornada acadêmica e técnica:
+Organização da produção técnica conforme a estrutura de pastas do repositório (ref: image_d12980.png) e descrições acadêmicas (ref: image_d121df.png):
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **ZenithFit** | Sistema focado em saúde e bem-estar (MVP Principal). | [Ver Projeto](./projeto-zenithfit/) |
-| **Batalha de Models** | Comparação técnica e análise de performance entre LLMs. | [Ver Projeto](./projeto-batalha-de-models/) |
-| **Lab. de Classificação Visual** | Implementação de modelos para reconhecimento de padrões em imagens. | [Ver Projeto](./projeto-laboratorio-de-classificacao-visual-det/) |
-| **Composição Assistida** | Exploração de tecnologia aplicada à música e algoritmos. | [Ver Projeto](./projeto-composicao-musical-assistida/) |
-| **Engenharia de Reserva** | Laboratório prático focado em análise reversa e segurança. | [Ver Projeto](./projeto-engenharia-reserva/) |
-| **Projeto Bolha** | Estudo de algoritmos de ordenação e visualização de dados. | [Ver Projeto](./projeto-bolha/) |
-| **A-do-Prompt** | Engenharia de prompts e otimização de interações com IA. | [Ver Projeto](./projeto-a-do-prompt/) |
+| **SM1 - A Corrida do Prompt** | Interação avançada com prompts de IA para resolução de desafios técnicos. | [Ver Projeto](./projeto-a-do-prompt/) |
+| **SM2 - Laboratório de Classificação Visual** | Implementação de algoritmos para classificação e reconhecimento de imagens. | [Ver Projeto](./projeto-laboratório-de-classificação-visual-det/) |
+| **SM3 - Batalha de Modelos e Prompt (XML)** | Comparação de performance entre modelos de linguagem utilizando XML. | [Ver Projeto](./projeto-batalha-de-modelos/) |
+| **SM4 - Engenharia Reversa** | Análise técnica profunda de sistemas e arquiteturas existentes. | [Ver Projeto](./projeto-engenharia-reserva/) |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento do ciclo de vida completo de um produto digital. | [Ver Projeto](./projeto-mvp+/) |
+| **SM6 - Engenharia de Software (Bubble.io)** | Desenvolvimento rápido de aplicações utilizando ferramentas low-code e IA. | [Ver Projeto](./projeto-bolha/) |
+| **SM7 - App de Videoconferência (ZenithFit)** | Integração de Manus AI e Jitsi para soluções de comunicação personalizadas. | [Ver Projeto](./projeto-zenithfit/) |
+| **SM8 - Composição Musical Assistida** | Exploração de algoritmos de IA para criação e arranjo musical. | [Ver Projeto](./projeto-composição-musical-assistida/) |
 
 ---
 
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização para facilitar a navegação:
-
-- `root/`: Arquivo de apresentação (este README).
-- `/projeto-nome/`: Documentação específica, código-fonte e ativos de cada projeto.
+*   `/nome-do-projeto/`: Pasta contendo o código-fonte, ativos visuais e README específico detalhando os resultados obtidos.
+*   `root/`: Documentação de apresentação profissional (este arquivo).
 
 ---
 *Última atualização: Maio de 2026*
