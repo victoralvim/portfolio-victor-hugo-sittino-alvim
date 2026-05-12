@@ -60,4 +60,6 @@ A competência técnica atual exige a transição da escrita sintática manual p
 **Nota de Estudo:** Documentação técnica desenvolvida por Victor Hugo Sittino Alvim.
 
 ---
-[⬅️ Voltar para a Raiz do Portfólio](index.md)
+<p align="right">
+  <a href="#topo">⬆ Voltar ao topo</a>
+</p>
