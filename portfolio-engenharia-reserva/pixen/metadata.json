@@ -1,0 +1,5 @@
+{
+  "name": "Pixen",
+  "description": "Extract and view Pixen metadata from media files.",
+  "requestFramePermissions": []
+}
