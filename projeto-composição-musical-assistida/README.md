@@ -1,9 +1,7 @@
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
  
 [![Languages](https://img.shields.io/github/languages/count/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO?style=for-the-badge&color=grey)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO)
-
 [![Repo Size](https://img.shields.io/github/repo-size/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO?style=for-the-badge&color=grey)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO)
-
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPOSITORIO)
  
 ## 📝 Descrição do Projeto
