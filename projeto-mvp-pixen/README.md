@@ -9,7 +9,7 @@ Este projeto documenta a transição técnica de uma prática de engenharia reve
 O desenvolvimento da lógica autoral e a experimentação com IA generativa podem ser acompanhados no ambiente abaixo:
 * **Link do Projeto:** [Google AI Studio - Protótipo de Engenharia Reversa](https://aistudio.google.com/)
 
-  <img width="584" height="712" alt="pixen" src="https://github.com/user-attachments/assets/d53bcd1e-cfba-457d-97d4-a3572a73937c" />
+<img width="584" height="712" alt="pixen" src="https://github.com/user-attachments/assets/987263a3-b2ac-48d0-ad1b-fe0bba2c3fa0" />
 
 
 ---
@@ -58,3 +58,6 @@ A competência técnica atual exige a transição da escrita sintática manual p
 
 ---
 **Nota de Estudo:** Documentação técnica desenvolvida por Victor Hugo Sittino Alvim.
+
+---
+[⬅️ Voltar para a Raiz do Portfólio](index.md)
