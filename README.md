@@ -45,7 +45,7 @@ Organização da produção técnica conforme a estrutura de pastas do repositó
 | **SM3 - Batalha de Modelos e Prompt (XML)** | Comparação de performance entre modelos de linguagem utilizando XML. | [Ver Projeto](./projeto-batalha-de-modelos/) |
 | **SM4 - Engenharia Reversa** | Análise técnica profunda de sistemas e arquiteturas existentes. | [Ver Projeto](./projeto-engenharia-reserva/) |
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento do ciclo de vida completo de um produto digital. | [Ver Projeto](./projeto-mvp+/) |
-| **SM6 - Engenharia de Software (Bubble.io)** | Desenvolvimento rápido de aplicações utilizando ferramentas low-code e IA. | [Ver Projeto](./projeto-bolha/) |
+| **SM6 - Engenharia de Software (Bubble.io)** | Desenvolvimento rápido de aplicações utilizando ferramentas low-code e IA. | [Ver Projeto](./projeto-bubble/) |
 | **SM7 - App de Videoconferência (ZenithFit)** | Integração de Manus AI e Jitsi para soluções de comunicação personalizadas. | [Ver Projeto](./projeto-zenithfit/) |
 | **SM8 - Composição Musical Assistida** | Exploração de algoritmos de IA para criação e arranjo musical. | [Ver Projeto](./projeto-composição-musical-assistida/) |
 
