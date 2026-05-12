@@ -40,7 +40,7 @@ Organização da produção técnica conforme a estrutura de pastas do repositó
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Interação avançada com prompts de IA para resolução de desafios técnicos. | [Ver Projeto](./projeto-a-do-prompt/) |
+| **SM1 - A Corrida do Prompt** | Interação avançada com prompts de IA para resolução de desafios técnicos. | [Ver Projeto](./projeto-corrida-do-prompt/) |
 | **SM2 - Laboratório de Classificação Visual** | Implementação de algoritmos para classificação e reconhecimento de imagens. | [Ver Projeto](./projeto-laboratório-de-classificação-visual-det/) |
 | **SM3 - Batalha de Modelos e Prompt (XML)** | Comparação de performance entre modelos de linguagem utilizando XML. | [Ver Projeto](./projeto-batalha-de-modelos/) |
 | **SM4 - Engenharia Reversa** | Análise técnica profunda de sistemas e arquiteturas existentes. | [Ver Projeto](./projeto-engenharia-reserva/) |
