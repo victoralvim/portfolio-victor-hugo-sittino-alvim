@@ -40,11 +40,3 @@ Devido à natureza *lock-in* do Bubble (retenção do código-fonte), a seguinte
 > Em caso de necessidade de migração para um ecossistema tradicional (como React e Node.js/Python), a extração dos dados será feita através da habilitação da **Data API nativa do Bubble**. Os dados de usuários e tabelas relacionais (como Orçamentos e Clientes) serão exportados via requisições REST/JSON, garantindo a integridade e portabilidade das informações da base de dados para o novo banco (SQL ou NoSQL).
 
 ---
-
-## ✅ Checklist de Entrega
-
-- [x] **Link da Aplicação:** Versão de teste disponível e com isolamento de usuários operante.
-- [ ] **Rascunho do Banco de Dados:** Mapeamento visual das tabelas, relações e Option Sets. *(Adicionar print/link aqui)*
-- [ ] **Comprovação de Segurança:** Print da aba *Data > Privacy* comprovando as regras de isolamento. *(Inserir imagem na pasta do repositório)*
-- [ ] **Governança de Workflows:** Print mostrando a organização por cores e anotações explicativas. *(Inserir imagem na pasta do repositório)*
-- [x] **Estratégia de Saída:** Documentada na seção 7.
