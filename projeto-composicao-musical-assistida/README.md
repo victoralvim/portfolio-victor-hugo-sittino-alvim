@@ -4,6 +4,9 @@
 ![Main Skill](https://img.shields.io/badge/SKILL-PROMPT_ENGINEERING-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen?style=for-the-badge)
 
+<img width="1300" height="260" alt="ss" src="https://github.com/user-attachments/assets/1676f039-b2a8-4bab-b45e-1303ca780609" />
+
+
 ## 📝 Descrição Analítica
 Este projeto transcende a simples geração automática de conteúdo, focando na **engenharia de precisão para mimetismo artístico**[cite: 2]. Através da integração entre o modelo de linguagem **Gemini 1.5 Pro** e o motor de síntese **Suno AI**, o objetivo foi decompor e reconstruir o DNA criativo da banda Oficina G3[cite: 2].
 
