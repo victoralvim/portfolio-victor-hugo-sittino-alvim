@@ -9,6 +9,9 @@ Este projeto documenta a transição técnica de uma prática de engenharia reve
 O desenvolvimento da lógica autoral e a experimentação com IA generativa podem ser acompanhados no ambiente abaixo:
 * **Link do Projeto:** [Google AI Studio - Protótipo de Engenharia Reversa](https://aistudio.google.com/)
 
+  <img width="584" height="712" alt="pixen" src="https://github.com/user-attachments/assets/d53bcd1e-cfba-457d-97d4-a3572a73937c" />
+
+
 ---
 
 ## 🛠️ Arquitetura e Toolbox (Ecossistema Firebase)
