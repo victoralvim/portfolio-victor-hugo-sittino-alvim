@@ -19,10 +19,10 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | A TUMBA NÃO | ROCK | [[A Tumba Não.mp3](https://github.com/user-attachments/files/27614210/A.Tumba.Nao.mp3) |
+| 01 | A TUMBA NÃO | ROCK | [A Tumba Não.mp3](https://github.com/user-attachments/files/27614210/A.Tumba.Nao.mp3) |
 | 02 | ALÉM DO ESPELHO | ROCK | [Além do Espelho.mp3](https://github.com/user-attachments/files/27614215/Alem.do.Espelho.mp3) |
-| 03 | AMOR INCONDICIONAL | ROCK | [[Amor Incondicional.mp3](https://github.com/user-attachments/files/27614220/Amor.Incondicional.mp3) |
-| 04 | SANGUE DA CRUZ| ROCK | [[Sangue na Cruz.mp3](https://github.com/user-attachments/files/27614225/Sangue.na.Cruz.mp3) |
+| 03 | AMOR INCONDICIONAL | ROCK | [Amor Incondicional.mp3](https://github.com/user-attachments/files/27614220/Amor.Incondicional.mp3) |
+| 04 | SANGUE DA CRUZ| ROCK | [Sangue na Cruz.mp3](https://github.com/user-attachments/files/27614225/Sangue.na.Cruz.mp3) |
 | 05 | SEGREDO DOS 220 VOLTS | ROCK | [Segredo dos 220 Volts.mp3](https://github.com/user-attachments/files/27614236/Segredo.dos.220.Volts.mp3) |
  
 ## 📄 Processo de Criação
