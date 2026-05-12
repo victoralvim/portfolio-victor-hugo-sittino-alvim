@@ -1,5 +1,5 @@
 # Victor Hugo Sittino Alvim
-> Estudante de Ciência da Computação | Militar da FAB | Foco em Cibersegurança & IA
+> Estudante de Analise e Desenvolvimento de Sistemas | Militar da FAB | Foco em Cibersegurança & IA
 
 ---
 
