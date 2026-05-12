@@ -11,6 +11,9 @@
 
 Este repositório contém a reconstrução funcional do aplicativo **Pixen**, desenvolvida através de uma abordagem de engenharia reversa visual assistida por Inteligência Artificial.
 
+<img width="584" height="712" alt="pixen" src="https://github.com/user-attachments/assets/542420b4-bff2-44be-9675-e80ed2641731" />
+
+
 ## 🚀 O Desafio
 
 O objetivo desta atividade foi assumir o papel de um **Desenvolvedor de Software assistido por IA** para reconstruir um aplicativo completo a partir da observação de sua interface externa, sem acesso ao código-fonte original.
