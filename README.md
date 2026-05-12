@@ -12,9 +12,9 @@
 ### 👨‍💻 Sobre
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e possuo 20 anos. Atualmente, sirvo como militar na Força Aérea Brasileira, o que fundamenta minha trajetória em disciplina e responsabilidade técnica. Minha atuação profissional e acadêmica é voltada para a resolução de problemas complexos através da tecnologia, com foco especial em **Cibersegurança** e **Inteligência Artificial**.
 
-* **Habilidades Técnicas:** Proficiência em Python, SQL e desenvolvimento web (JavaScript, HTML e CSS).
-* **Habilidades Socioemocionais:** Liderança, pensamento crítico e comunicação assertiva desenvolvidos em ambientes de alta responsabilidade.
-* **Foco Acadêmico:** Especialização em ferramentas de segurança (Kali Linux) e integração de serviços de IA.
+*   **Habilidades Técnicas:** Proficiência em Python, SQL e desenvolvimento web (JavaScript, HTML e CSS).
+*   **Habilidades Socioemocionais:** Liderança, pensamento crítico e comunicação assertiva.
+*   **Foco Acadêmico:** Especialização em ferramentas de segurança (Kali Linux) e integração de serviços de IA.
 
 ---
 
@@ -50,8 +50,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e poss
 ---
 
 ### 🏗 Estrutura do Repositório
-* `/nome-do-projeto/`: Pasta contendo o código-fonte, ativos visuais e README específico detalhando os resultados obtidos.
-* `root/`: Documentação de apresentação profissional (este arquivo).
+Para facilitar a navegação e o entendimento técnico, o repositório está organizado da seguinte forma:
+
+*   **`./nome-do-projeto/`**: Pastas individuais para cada Sprint/Projeto contendo:
+    *   `src/`: Código-fonte da solução.
+    *   `assets/`: Imagens, vídeos e arquivos de mídia.
+    *   `README.md`: Documentação específica com os resultados e justificativas técnicas.
+*   **`root/`**: Documentação de apresentação profissional e diretórios de configuração.
 
 ---
 *Última atualização: Maio de 2026*
