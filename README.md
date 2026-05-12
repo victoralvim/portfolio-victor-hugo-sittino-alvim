@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 Sobre
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e possuo 33 anos. Atualmente, sirvo como militar na Força Aérea Brasileira, o que fundamenta minha trajetória em disciplina e responsabilidade técnica. Minha atuação profissional e acadêmica é voltada para a resolução de problemas complexos através da tecnologia, com foco especial em **Cibersegurança** e **Inteligência Artificial**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID** e possuo 20 anos. Atualmente, sirvo como militar na Força Aérea Brasileira, o que fundamenta minha trajetória em disciplina e responsabilidade técnica. Minha atuação profissional e acadêmica é voltada para a resolução de problemas complexos através da tecnologia, com foco especial em **Cibersegurança** e **Inteligência Artificial**.
 
 * **Habilidades Técnicas:** Proficiência em Python, SQL e desenvolvimento web (JavaScript, HTML e CSS).
 * **Habilidades Socioemocionais:** Liderança, pensamento crítico e comunicação assertiva desenvolvidos em ambientes de alta responsabilidade.
